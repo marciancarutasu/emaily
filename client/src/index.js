@@ -1,6 +1,5 @@
 import 'materialize-css/dist/css/materialize.min.css';
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { createRoot } from 'react-dom/client';
 import { Provider } from 'react-redux';
 import { applyMiddleware } from 'redux';
